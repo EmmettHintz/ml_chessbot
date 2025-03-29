@@ -1,2 +1,7 @@
-venv
-__pycache__
+# Ignore PyTorch model files
+models/*.pth
+*.pt
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
