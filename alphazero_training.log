@@ -1,0 +1,68 @@
+2025-03-29 14:54:23,202 - INFO - Starting AlphaZero training pipeline with 100 iterations
+2025-03-29 14:54:23,202 - INFO - Initializing best model with random weights at models/best_model.pth
+2025-03-29 14:54:23,303 - INFO - Starting iteration 1/100
+2025-03-29 14:54:23,367 - INFO - Iteration 1: Starting self-play phase with 500 games
+2025-03-29 14:55:00,808 - INFO - Starting AlphaZero training pipeline with 100 iterations
+2025-03-29 14:55:00,808 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 14:55:00,808 - INFO - Starting iteration 1/100
+2025-03-29 14:55:00,863 - INFO - Iteration 1: Starting self-play phase with 500 games
+2025-03-29 14:55:41,115 - INFO - Starting AlphaZero training pipeline with 100 iterations
+2025-03-29 14:55:41,115 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 14:55:41,115 - INFO - Starting iteration 1/100
+2025-03-29 14:55:41,173 - INFO - Iteration 1: Starting self-play phase with 500 games
+2025-03-29 14:56:40,706 - INFO - Starting AlphaZero training pipeline with 100 iterations
+2025-03-29 14:56:40,706 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 14:56:40,706 - INFO - Starting iteration 1/100
+2025-03-29 14:56:40,762 - INFO - Iteration 1: Starting self-play phase with 500 games
+2025-03-29 14:57:30,679 - INFO - Starting AlphaZero training pipeline with 100 iterations
+2025-03-29 14:57:30,679 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 14:57:30,679 - INFO - Starting iteration 1/100
+2025-03-29 14:57:30,735 - INFO - Iteration 1: Starting self-play phase with 500 games
+2025-03-29 15:10:08,615 - INFO - Starting AlphaZero training pipeline with 100 iterations
+2025-03-29 15:10:08,615 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:10:08,615 - INFO - Starting iteration 1/100
+2025-03-29 15:10:08,675 - INFO - Iteration 1: Starting self-play phase with 500 games
+2025-03-29 15:11:11,636 - INFO - Starting AlphaZero training pipeline with 100 iterations
+2025-03-29 15:11:11,636 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:11:11,636 - INFO - Starting iteration 1/100
+2025-03-29 15:11:11,694 - INFO - Iteration 1: Starting self-play phase with 500 games
+2025-03-29 15:11:52,953 - INFO - Starting AlphaZero training pipeline with 100 iterations
+2025-03-29 15:11:52,953 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:11:52,953 - INFO - Starting iteration 1/100
+2025-03-29 15:11:53,008 - INFO - Iteration 1: Starting self-play phase with 500 games
+2025-03-29 15:13:21,455 - INFO - Starting AlphaZero training pipeline with 1 iterations
+2025-03-29 15:13:21,455 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:13:21,455 - INFO - Starting iteration 1/1
+2025-03-29 15:13:21,515 - INFO - Iteration 1: Starting self-play phase with 2 games
+2025-03-29 15:13:33,298 - INFO - Starting AlphaZero training pipeline with 1 iterations
+2025-03-29 15:13:33,298 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:13:33,298 - INFO - Starting iteration 1/1
+2025-03-29 15:13:33,357 - INFO - Iteration 1: Starting self-play phase with 2 games
+2025-03-29 15:14:02,360 - INFO - Starting AlphaZero training pipeline with 1 iterations
+2025-03-29 15:14:02,360 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:14:02,360 - INFO - Starting iteration 1/1
+2025-03-29 15:14:02,439 - INFO - Iteration 1: Starting self-play phase with 2 games
+2025-03-29 15:15:35,356 - INFO - Starting AlphaZero training pipeline with 1 iterations
+2025-03-29 15:15:35,356 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:15:35,356 - INFO - Starting iteration 1/1
+2025-03-29 15:15:35,417 - INFO - Iteration 1: Starting self-play phase with 1 games
+2025-03-29 15:16:25,712 - INFO - Iteration 1: Self-play completed. Generated 63 training examples.
+2025-03-29 15:16:25,775 - INFO - Iteration 1: Starting training phase
+2025-03-29 15:16:33,462 - INFO - Iteration 1: Training completed. Model saved to models/model_iteration_1.pth
+2025-03-29 15:16:33,602 - INFO - Iteration 1: Starting evaluation phase with 40 games
+2025-03-29 15:18:00,152 - INFO - Starting AlphaZero training pipeline with 1 iterations
+2025-03-29 15:18:00,152 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:18:00,152 - INFO - Starting iteration 1/1
+2025-03-29 15:18:00,213 - INFO - Iteration 1: Starting self-play phase with 1 games
+2025-03-29 15:18:20,409 - INFO - Starting AlphaZero training pipeline with 1 iterations
+2025-03-29 15:18:20,409 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:18:20,409 - INFO - Starting iteration 1/1
+2025-03-29 15:18:20,469 - INFO - Iteration 1: Starting self-play phase with 1 games
+2025-03-29 15:18:40,974 - INFO - Starting AlphaZero training pipeline with 1 iterations
+2025-03-29 15:18:40,974 - INFO - Best model already exists at models/best_model.pth
+2025-03-29 15:18:40,974 - INFO - Starting iteration 1/1
+2025-03-29 15:18:41,034 - INFO - Iteration 1: Starting self-play phase with 1 games
+2025-03-29 15:19:13,128 - INFO - Iteration 1: Self-play completed. Generated 38 training examples.
+2025-03-29 15:19:13,195 - INFO - Iteration 1: Starting training phase
+2025-03-29 15:19:20,443 - INFO - Iteration 1: Training completed. Model saved to models/model_iteration_1.pth
+2025-03-29 15:19:20,579 - INFO - Iteration 1: Starting evaluation phase with 40 games
