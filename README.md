@@ -78,4 +78,3 @@ Compared to a textbook AlphaZero implementation or other engines, this project f
 -   **Practical `python-chess` Integration:** Demonstrates the integration of `python-chess` for core game logic within the AlphaZero framework.
 -   **Move Space Handling:** Explicitly addresses the large action space of chess (thousands of possible moves) by using a fixed-size policy output (1968 moves in this case). It includes logic (`get_legal_moves_mask`) to correctly handle situations where the true legal moves are not all represented in the network's output head, falling back to a uniform probability distribution over the actual legal moves when necessary. This is a practical compromise often required.
 -   **Iterative Development:** The history of this project reflects a migration from previous architectures (like DSMN) and debugging steps involved in adapting standard algorithms to the specific libraries and constraints used.
-# ml_chessbot
